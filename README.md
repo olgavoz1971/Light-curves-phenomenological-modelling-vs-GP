@@ -68,6 +68,14 @@ is **phase-shifted so that the maximum flux occurs at phase 0**.
 
 The result is a smooth, periodic representation of the light curve with associated uncertainty estimates.
 
+## Phenomenological Modelling vs. GP
+Here we compare some results visually:
+
+<p float="left">
+  <img src="phen_vs_GP_1.jpg" width="45%">
+  <img src="phen_vs_GP_2.jpg" width="45%">
+</p>
+
 
 ## Status
 
